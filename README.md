@@ -1,5 +1,6 @@
 # Dense-PMSFNet: Retinal Vasculature and FAZ Segmentation in OCTA Images
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 This repository provides a clean and independent implementation of **Dense-PMSFNet**, a DenseNet-based pyramidal multi-scale fusion network for accurate segmentation of retinal microvasculature (arteries, veins, capillaries) and the Foveal Avascular Zone (FAZ) in OCTA images.
 
 Originally published in:  
