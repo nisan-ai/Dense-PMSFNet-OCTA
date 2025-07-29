@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+
+# Data files
+*.npz
+*.npy
+*.h5
+
+# Logs and outputs
+logs/
+predictions/
+checkpoints/
+runs/
+*.ckpt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
