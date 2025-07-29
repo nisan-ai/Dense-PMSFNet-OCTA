@@ -24,8 +24,9 @@ Originally published in:
 
 ### ✅ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Dense-PMSFNet-OCTA.git
+git clone https://github.com/nisan-ai/Dense-PMSFNet-OCTA.git
 cd Dense-PMSFNet-OCTA
+
 ```
 
 ### ✅ Create a Virtual Environment & Install Dependencies
