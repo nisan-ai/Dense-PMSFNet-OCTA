@@ -92,7 +92,7 @@ If you use this work in your research, please cite the original paper:
 
 ## 👤 Maintainer
 
-This repository is maintained by Nisan Pranavah Raja, the first author and lead contributor of the original IEEE publication. While the research and model development were carried out collaboratively with co-authors, this GitHub implementation has been independently refined, documented, and curated by Nisan to enable broader accessibility, reproducibility, and real-world application..
+This repository is maintained by Nisan Pranavah Raja,Postdoctoral Researcher at Sudha Gopalakrishnan Brain Centre, IIT Madras | PhD, ECE | NIT Tiruchirappalli, the first author and lead contributor of the original IEEE publication. While the research and model development were carried out collaboratively with co-authors, this GitHub implementation has been independently refined, documented, and curated by Nisan to enable broader accessibility, reproducibility, and real-world application..
 
 🔗 [Google Scholar](https://scholar.google.com/citations?user=_PW0aeYAAAAJ&hl=en)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nisan-pranavah-raja)  
